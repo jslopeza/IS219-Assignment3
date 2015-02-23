@@ -1,0 +1,22 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binoy14/IS219-Assignment3.git"
+  },
+  "author": "Binoy Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binoy14/IS219-Assignment3/issues"
+  },
+  "homepage": "https://github.com/binoy14/IS219-Assignment3",
+  "dependencies": {
+    "mongoose": "^3.8.23"
+  }
+}
